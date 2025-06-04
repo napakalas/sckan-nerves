@@ -1,6 +1,4 @@
-# https://github.com/AnatomicMaps/map-knowledge/releases/download/v0.21.0/mapknowledge-0.21.0-py3-none-any.whl
-# /Users/ymun794/Documents/MapCore/map-knowledge-napakalas/dist/mapknowledge-0.21.0-py3-none-any.whl
-git+https://github.com/AnatomicMaps/map-knowledge.git@9c6c1ca#egg=mapknowledge
+https://github.com/AnatomicMaps/map-knowledge/releases/download/v1.1.0/mapknowledge-1.1.0-py3-none-any.whl
 jupyter
 ipykernel
 tqdm
