@@ -2,3 +2,4 @@ https://github.com/AnatomicMaps/map-knowledge/releases/download/v1.1.0/mapknowle
 jupyter
 ipykernel
 tqdm
+pandas
