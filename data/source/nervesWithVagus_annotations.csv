@@ -1,0 +1,981 @@
+Term ID,Group name
+FMA:8887,Anterior branch of lateral cutaneous branch of left eighth intercostal nerve
+FMA:7305,Anterior branch of lateral cutaneous branch of left eleventh intercostal nerve
+FMA:7294,Anterior branch of lateral cutaneous branch of left fifth intercostal nerve
+FMA:7127,Anterior branch of lateral cutaneous branch of left fourth intercostal nerve
+FMA:8898,Anterior branch of lateral cutaneous branch of left ninth intercostal nerve
+FMA:8876,Anterior branch of lateral cutaneous branch of left seventh intercostal nerve
+FMA:8865,Anterior branch of lateral cutaneous branch of left sixth intercostal nerve
+FMA:11552,Anterior branch of lateral cutaneous branch of left subcostal nerve
+FMA:8909,Anterior branch of lateral cutaneous branch of left tenth intercostal nerve
+FMA:7116,Anterior branch of lateral cutaneous branch of left third intercostal nerve
+FMA:8886,Anterior branch of lateral cutaneous branch of right eighth intercostal nerve
+FMA:7304,Anterior branch of lateral cutaneous branch of right eleventh intercostal nerve
+FMA:7293,Anterior branch of lateral cutaneous branch of right fifth intercostal nerve
+FMA:7126,Anterior branch of lateral cutaneous branch of right fourth intercostal nerve
+FMA:8897,Anterior branch of lateral cutaneous branch of right ninth intercostal nerve
+FMA:8875,Anterior branch of lateral cutaneous branch of right seventh intercostal nerve
+FMA:8864,Anterior branch of lateral cutaneous branch of right sixth intercostal nerve
+FMA:11551,Anterior branch of lateral cutaneous branch of right subcostal nerve
+FMA:8908,Anterior branch of lateral cutaneous branch of right tenth intercostal nerve
+FMA:7115,Anterior branch of lateral cutaneous branch of right third intercostal nerve
+ILX:0795071,Anterior branch of left inferior laryngeal nerve
+FMA:65314,Anterior branch of left medial cutaneous nerve of forearm
+FMA:45309,Anterior branch of left obturator nerve
+ILX:0795070,Anterior branch of right inferior laryngeal nerve
+FMA:65313,Anterior branch of right medial cutaneous nerve of forearm
+FMA:45308,Anterior branch of right obturator nerve
+FMA:8883,Anterior cutaneous branch of left eighth intercostal nerve
+FMA:7301,Anterior cutaneous branch of left eleventh intercostal nerve
+FMA:7290,Anterior cutaneous branch of left fifth intercostal nerve
+FMA:8922,Anterior cutaneous branch of left first intercostal nerve
+FMA:7123,Anterior cutaneous branch of left fourth intercostal nerve
+FMA:20605,Anterior cutaneous branch of left iliohypogastric nerve
+FMA:8894,Anterior cutaneous branch of left ninth intercostal nerve
+FMA:7092,Anterior cutaneous branch of left second intercostal nerve
+FMA:8872,Anterior cutaneous branch of left seventh intercostal nerve
+FMA:8861,Anterior cutaneous branch of left sixth intercostal nerve
+FMA:8917,Anterior cutaneous branch of left subcostal nerve
+FMA:8905,Anterior cutaneous branch of left tenth intercostal nerve
+FMA:6149,Anterior cutaneous branch of left third intercostal nerve
+FMA:8882,Anterior cutaneous branch of right eighth intercostal nerve
+FMA:7300,Anterior cutaneous branch of right eleventh intercostal nerve
+FMA:7289,Anterior cutaneous branch of right fifth intercostal nerve
+FMA:6137,Anterior cutaneous branch of right first intercostal nerve
+FMA:7122,Anterior cutaneous branch of right fourth intercostal nerve
+FMA:20604,Anterior cutaneous branch of right iliohypogastric nerve
+FMA:8893,Anterior cutaneous branch of right ninth intercostal nerve
+FMA:6114,Anterior cutaneous branch of right second intercostal nerve
+FMA:8871,Anterior cutaneous branch of right seventh intercostal nerve
+FMA:8860,Anterior cutaneous branch of right sixth intercostal nerve
+FMA:8916,Anterior cutaneous branch of right subcostal nerve
+FMA:8904,Anterior cutaneous branch of right tenth intercostal nerve
+FMA:6155,Anterior cutaneous branch of right third intercostal nerve
+ILX:0794854,Anterior esophageal vagus trunk
+FMA:53535,Auricular branch of left vagus nerve
+FMA:53534,Auricular branch of right vagus nerve
+FMA:65371,Brachial plexus anterior division of left inferior trunk
+FMA:305015,Brachial plexus anterior division of left middle trunk
+FMA:65384,Brachial plexus anterior division of left superior trunk
+FMA:65370,Brachial plexus anterior division of right inferior trunk
+FMA:305013,Brachial plexus anterior division of right middle trunk
+FMA:65383,Brachial plexus anterior division of right superior trunk
+FMA:8735,Brachial plexus left C5 root
+FMA:8732,Brachial plexus left C6 root
+FMA:8729,Brachial plexus left C7 root
+FMA:8726,Brachial plexus left C8 root
+None,Brachial plexus left T1 root
+FMA:65364,Brachial plexus left inferior trunk
+FMA:45239,Brachial plexus left lateral cord
+FMA:45241,Brachial plexus left medial cord
+FMA:65366,Brachial plexus left middle trunk
+FMA:45243,Brachial plexus left posterior cord
+FMA:65362,Brachial plexus left superior trunk
+FMA:65376,Brachial plexus posterior division of left inferior trunk
+FMA:65378,Brachial plexus posterior division of left middle trunk
+FMA:65380,Brachial plexus posterior division of left superior trunk
+FMA:65375,Brachial plexus posterior division of right inferior trunk
+FMA:65377,Brachial plexus posterior division of right middle trunk
+FMA:65379,Brachial plexus posterior division of right superior trunk
+FMA:8734,Brachial plexus right C5 root
+FMA:8731,Brachial plexus right C6 root
+FMA:8728,Brachial plexus right C7 root
+FMA:8725,Brachial plexus right C8 root
+None,Brachial plexus right T1 root
+FMA:65363,Brachial plexus right inferior trunk
+FMA:45238,Brachial plexus right lateral cord
+FMA:45240,Brachial plexus right medial cord
+FMA:65365,Brachial plexus right middle trunk
+FMA:45242,Brachial plexus right posterior cord
+FMA:65361,Brachial plexus right superior trunk
+FMA:65850,Branch from left C5 root to long thoracic nerve
+FMA:65870,Branch from left C6 root to long thoracic nerve
+FMA:65899,Branch from left C7 root to long thoracic nerve
+FMA:65849,Branch from right C5 root to long thoracic nerve
+FMA:65869,Branch from right C6 root to long thoracic nerve
+FMA:65898,Branch from right C7 root to long thoracic nerve
+FMA:53675,Branch of greater anterior gastric nerve to coeliac nerve plexus
+ILX:0795085,Branch of left recurrent laryngeal nerve to muscle of larynx
+ILX:0794310,Branch of left vagus nerve to oesophageal nerve plexus
+ILX:0795084,Branch of right recurrent laryngeal nerve to muscle of larynx
+FMA:53675,Branch of right vagus nerve to oesophageal nerve plexus
+FMA:53312,Buccal branch of left facial nerve
+FMA:53311,Buccal branch of right facial nerve
+ILX:0794160,Cardiopulmonary branch A of left vagus nerve
+ILX:0794154,Cardiopulmonary branch A of right vagus nerve
+ILX:0794161,Cardiopulmonary branch B of left vagus nerve
+ILX:0794155,Cardiopulmonary branch B of right vagus nerve
+FMA:53399,Cervical branch of left facial nerve
+FMA:53398,Cervical branch of right facial nerve
+None,Chorda tympani branch of left facial nerve
+None,Chorda tympani branch of right facial nerve
+FMA:6667,Coeliac branch of posterior vagal trunk
+FMA:53588
+ILX:0787673,Communicating branch of auricular branch of left vagus nerve with left facial nerve
+FMA:53590
+ILX:0786219,Communicating branch of auricular branch of left vagus nerve with left posterior auricular nerve
+FMA:53589
+ILX:0786954,Communicating branch of auricular branch of right vagus nerve with right posterior auricular nerve
+None,Communicating branch of left common palmar digital branch of ulnar nerve with left median nerve
+FMA:53562,Communicating branch of left external laryngeal nerve with left superior cardiac nerve
+FMA:53485,Communicating branch of left glossopharyngeal nerve with auricular branch of left vagus nerve
+FMA:53572,Communicating branch of left internal laryngeal nerve with left recurrent laryngeal nerve
+FMA:53560,Communicating branch of left vagus nerve with left glossopharyngeal nerve
+None,Communicating branch of right common palmar digital branch of ulnar nerve with right median nerve
+FMA:53561,Communicating branch of right external laryngeal nerve with right superior cardiac nerve
+FMA:53484,Communicating branch of right glossopharyngeal nerve with auricular branch of right vagus nerve
+FMA:53571,Communicating branch of right internal laryngeal nerve with right recurrent laryngeal nerve
+FMA:53559,Communicating branch of right vagus nerve with right glossopharyngeal nerve
+None,Communicating branch of superior cervical ganglion with left vagus nerve
+None,Communicating branch of superior cervical ganglion with right vagus nerve
+None,Cranial roots of left accessory nerve
+None,Cranial roots of right accessory nerve
+FMA:45334,Cutaneous branch of left obturator nerve
+FMA:45333,Cutaneous branch of right obturator nerve
+FMA:292832,Dorsal branch of left ulnar nerve
+FMA:292830,Dorsal branch of right ulnar nerve
+ILX:0795069,Extra-laryngeal branch of left recurrent laryngeal nerve to larynx
+ILX:0795068,Extra-laryngeal branch of right recurrent laryngeal nerve to larynx
+FMA:52733,Ganglionic branch of left maxillary nerve to pterygopalatine ganglion
+FMA:52732,Ganglionic branch of right maxillary nerve to pterygopalatine ganglion
+FMA:45355,Gluteal branch A of left posterior femoral cutaneous nerve
+FMA:45354,Gluteal branch A of right posterior femoral cutaneous nerve
+FMA:6684,Greater anterior gastric nerve
+FMA:6689,Greater posterior gastric nerve
+FMA:6666,Hepatic branch of anterior vagal trunk
+ILX:0794244,Inferior cervical cardiac branch of left recurrent laryngeal nerve
+FMA:6714,Inferior cervical cardiac branch of left vagus nerve
+ILX:0794235,Inferior cervical cardiac branch of right recurrent laryngeal nerve
+FMA:6713,Inferior cervical cardiac branch of right vagus nerve
+FMA:53582,Inferior ramus of left internal laryngeal nerve
+FMA:53581
+ILX:0789165,Inferior ramus of right internal laryngeal nerve
+FMA:45327,Infrapatellar branch of left saphenous nerve
+FMA:45326,Infrapatellar branch of right saphenous nerve
+FMA:11214,Lateral cutaneous branch of left eighth intercostal nerve
+FMA:11220,Lateral cutaneous branch of left eleventh intercostal nerve
+FMA:11193,Lateral cutaneous branch of left fifth intercostal nerve
+FMA:11111,Lateral cutaneous branch of left fourth intercostal nerve
+FMA:20608,Lateral cutaneous branch of left iliohypogastric nerve
+FMA:11216,Lateral cutaneous branch of left ninth intercostal nerve
+FMA:11212,Lateral cutaneous branch of left seventh intercostal nerve
+FMA:11210,Lateral cutaneous branch of left sixth intercostal nerve
+FMA:8919,Lateral cutaneous branch of left subcostal nerve
+FMA:11218,Lateral cutaneous branch of left tenth intercostal nerve
+FMA:6111,Lateral cutaneous branch of left third intercostal nerve
+FMA:11213,Lateral cutaneous branch of right eighth intercostal nerve
+FMA:11219,Lateral cutaneous branch of right eleventh intercostal nerve
+FMA:11194,Lateral cutaneous branch of right fifth intercostal nerve
+FMA:11084,Lateral cutaneous branch of right fourth intercostal nerve
+FMA:20607,Lateral cutaneous branch of right iliohypogastric nerve
+FMA:11215,Lateral cutaneous branch of right ninth intercostal nerve
+FMA:11211,Lateral cutaneous branch of right seventh intercostal nerve
+FMA:11209,Lateral cutaneous branch of right sixth intercostal nerve
+FMA:8918,Lateral cutaneous branch of right subcostal nerve
+FMA:11217,Lateral cutaneous branch of right tenth intercostal nerve
+FMA:6108,Lateral cutaneous branch of right third intercostal nerve
+None,Lateral portion of left median nerve
+None,Lateral portion of right median nerve
+FMA:305345,Lateral root of left median nerve
+FMA:305343,Lateral root of right median nerve
+None,Left C1 grey ramus communicans
+ILX:0794594,Left C1 spinal nerve
+FMA:55148,Left C1 spinal nerve branch to left ansa cervicalis
+None,Left C2 grey ramus communicans
+ILX:0794597,Left C2 spinal nerve
+FMA:55150,Left C2 spinal nerve branch to left ansa cervicalis
+FMA:65399,Left C2 spinal nerve branch to left great auricular nerve
+FMA:6832,Left C2 spinal nerve posterior ramus
+FMA:6835,Left C2 spinal nerve posterior ramus medial branch
+None,Left C3 grey ramus communicans
+ILX:0794600,Left C3 spinal nerve
+FMA:65402,Left C3 spinal nerve branch to left great auricular nerve
+FMA:65438,Left C3 spinal nerve branch to left supraclavicular nerve
+FMA:6849,Left C3 spinal nerve posterior ramus
+FMA:6851,Left C3 spinal nerve posterior ramus medial branch
+None,Left C4 grey ramus communicans
+ILX:0794603,Left C4 spinal nerve
+FMA:8791,Left C4 spinal nerve posterior ramus
+FMA:65740,Left C4 spinal nerve posterior ramus medial branch
+None,Left C5 grey ramus communicans
+ILX:0794606,Left C5 spinal nerve
+FMA:8795,Left C5 spinal nerve posterior ramus
+FMA:65744,Left C5 spinal nerve posterior ramus medial branch
+None,Left C6 grey ramus communicans
+ILX:0794609,Left C6 spinal nerve
+FMA:8798,Left C6 spinal nerve posterior ramus
+FMA:11262,Left C6 spinal nerve posterior ramus medial branch
+None,Left C7 grey ramus communicans
+ILX:0794612,Left C7 spinal nerve
+None,Left C8 grey ramus communicans
+ILX:0794615,Left C8 spinal nerve
+FMA:65924,Left L1 grey ramus communicans
+FMA:6411,Left L1 spinal nerve
+FMA:65938,Left L1 spinal nerve branch to left genitofemoral nerve
+FMA:7078,Left L1 spinal nerve posterior ramus
+FMA:16401,Left L1 spinal nerve posterior ramus lateral branch
+FMA:16885,Left L1 white ramus communicans
+FMA:65922,Left L2 grey ramus communicans
+FMA:6413,Left L2 spinal nerve
+None,Left L2 spinal nerve branch to left femoral nerve
+FMA:65942,Left L2 spinal nerve branch to left genitofemoral nerve
+None,Left L2 spinal nerve branch to left lateral femoral cutaneous nerve
+FMA:65949,Left L2 spinal nerve branch to left obturator nerve
+FMA:8833,Left L2 spinal nerve posterior ramus
+FMA:16403,Left L2 spinal nerve posterior ramus lateral branch
+FMA:16887,Left L2 white ramus communicans
+FMA:65920,Left L3 grey ramus communicans
+FMA:6418,Left L3 spinal nerve
+FMA:8836,Left L3 spinal nerve posterior ramus
+FMA:16405,Left L3 spinal nerve posterior ramus lateral branch
+None,Left L4 branch to left common fibular part of sciatic nerve
+None,Left L4 branch to left tibial part of sciatic nerve
+FMA:65918,Left L4 grey ramus communicans
+FMA:6420,Left L4 spinal nerve
+None,Left L5 branch to left common fibular part of sciatic nerve
+None,Left L5 branch to left tibial part of sciatic nerve
+FMA:65916,Left L5 grey ramus communicans
+FMA:6422,Left L5 spinal nerve
+None,Left S1 branch to left common fibular part of sciatic nerve
+None,Left S1 branch to left tibial part of sciatic nerve
+FMA:65992,Left S1 grey ramus communicans
+None,Left S1 sacral splanchnic nerve
+FMA:6429,Left S1 spinal nerve
+None,Left S2 branch to left common fibular part of sciatic nerve
+None,Left S2 branch to left tibial part of sciatic nerve
+FMA:65994,Left S2 grey ramus communicans
+None,Left S2 sacral splanchnic nerve
+FMA:6431,Left S2 spinal nerve
+FMA:66036,Left S2 spinal nerve branch to left pudendal nerve
+None,Left S3 branch to left tibial part of sciatic nerve
+FMA:65996,Left S3 grey ramus communicans
+FMA:6433,Left S3 spinal nerve
+FMA:66039,Left S3 spinal nerve branch to left pudendal nerve
+FMA:65998,Left S4 grey ramus communicans
+FMA:6435,Left S4 spinal nerve
+FMA:66046,Left S4 spinal nerve branch to left pudendal nerve
+FMA:66000,Left S5 grey ramus communicans
+FMA:6437,Left S5 spinal nerve
+FMA:6084,Left T1 grey ramus communicans
+FMA:6039,Left T1 spinal nerve
+FMA:6071,Left T1 spinal nerve posterior ramus
+FMA:11250,Left T1 spinal nerve posterior ramus medial branch
+FMA:6085,Left T1 white ramus communicans
+FMA:6895,Left T10 grey ramus communicans
+FMA:6311,Left T10 spinal nerve
+FMA:8824,Left T10 spinal nerve posterior ramus
+FMA:11756,Left T10 spinal nerve posterior ramus lateral branch
+FMA:6777,Left T10 white ramus communicans
+FMA:6897,Left T11 grey ramus communicans
+FMA:6314,Left T11 spinal nerve
+FMA:8827,Left T11 spinal nerve posterior ramus
+FMA:11758,Left T11 spinal nerve posterior ramus lateral branch
+FMA:6779,Left T11 white ramus communicans
+FMA:11788,Left T12 grey ramus communicans
+FMA:6183,Left T12 spinal nerve
+FMA:8830,Left T12 spinal nerve posterior ramus
+FMA:11760,Left T12 spinal nerve posterior ramus lateral branch
+FMA:11789,Left T12 white ramus communicans
+FMA:6757,Left T2 grey ramus communicans
+FMA:6089,Left T2 spinal nerve
+FMA:6090,Left T2 spinal nerve posterior ramus
+FMA:11253,Left T2 spinal nerve posterior ramus medial branch
+FMA:6127,Left T2 white ramus communicans
+FMA:6133,Left T3 grey ramus communicans
+FMA:6117,Left T3 spinal nerve
+FMA:6145,Left T3 spinal nerve posterior ramus
+FMA:11039,Left T3 spinal nerve posterior ramus medial branch
+FMA:6132,Left T3 white ramus communicans
+FMA:6758,Left T4 grey ramus communicans
+FMA:6292,Left T4 spinal nerve
+FMA:6792,Left T4 spinal nerve posterior ramus
+FMA:11092,Left T4 spinal nerve posterior ramus medial branch
+FMA:6765,Left T4 white ramus communicans
+FMA:6760,Left T5 grey ramus communicans
+FMA:6295,Left T5 spinal nerve
+FMA:8808,Left T5 spinal nerve posterior ramus
+FMA:11154,Left T5 spinal nerve posterior ramus medial branch
+FMA:6767,Left T5 white ramus communicans
+FMA:6763,Left T6 grey ramus communicans
+FMA:6298,Left T6 spinal nerve
+FMA:8812,Left T6 spinal nerve posterior ramus
+FMA:11262,Left T6 spinal nerve posterior ramus medial branch
+FMA:6769,Left T6 white ramus communicans
+FMA:6889,Left T7 grey ramus communicans
+FMA:6301,Left T7 spinal nerve
+FMA:8815,Left T7 spinal nerve posterior ramus
+FMA:11687,Left T7 spinal nerve posterior ramus lateral branch
+FMA:6771,Left T7 white ramus communicans
+FMA:6891,Left T8 grey ramus communicans
+FMA:6305,Left T8 spinal nerve
+FMA:8818,Left T8 spinal nerve posterior ramus
+FMA:11752,Left T8 spinal nerve posterior ramus lateral branch
+FMA:6773,Left T8 white ramus communicans
+FMA:6893,Left T9 grey ramus communicans
+FMA:6308,Left T9 spinal nerve
+FMA:8821,Left T9 spinal nerve posterior ramus
+FMA:11754,Left T9 spinal nerve posterior ramus lateral branch
+FMA:6775,Left T9 white ramus communicans
+FMA:50899,Left accessory nerve
+FMA:6218,Left accessory phrenic nerve
+FMA:55144
+ILX:0794578,Left ansa cervicalis
+FMA:53063,Left anterior division of mandibular nerve
+FMA:52677,Left anterior ethmoidal nerve
+FMA:45254,Left anterior femoral cutaneous branch A
+FMA:65326,Left anterior interosseous nerve
+None,Left anterior scrotal nerve
+FMA:52942,Left anterior superior alveolar nerve
+FMA:78650,Left anterior supraclavicular nerve
+FMA:53002,Left auriculotemporal nerve
+FMA:37074,Left axillary nerve
+FMA:81288,Left axillary nerve anterior branch
+FMA:81290,Left axillary nerve posterior branch
+FMA:53068,Left buccal nerve
+FMA:0328831,Left caroticotympanic nerve
+FMA:53509,Left carotid sinus nerve
+None,Left coccygeal grey ramus communicans
+FMA:6439,Left coccygeal spinal nerve
+FMA:53433,Left cochlear nerve
+FMA:45358,Left common fibular nerve
+None,Left common fibular part of sciatic nerve
+FMA:44893,Left common palmar digital nerve A
+None,Left common palmar digital nerve B
+None,Left common palmar digital nerve C
+None,Left common plantar digital nerve B
+None,Left common plantar digital nerve C
+None,Left common plantar digital nerve D
+FMA:44735,Left common plantar digital nerve E
+FMA:44770,Left common plantar digital nerve F
+FMA:52674,Left communicating branch of nasociliary nerve with ciliary ganglion
+FMA:45388,Left deep fibular nerve
+FMA:0328827,Left deep petrosal nerve
+FMA:21880,Left dorsal nerve of penis
+FMA:6739,Left eighth intercostal nerve
+FMA:6745,Left eleventh intercostal nerve
+FMA:53538,Left external laryngeal nerve
+FMA:53568,Left external laryngeal nerve branch to inferior pharyngeal constrictor
+FMA:53570,Left external laryngeal nerve branch to pharyngeal plexus
+FMA:50889,Left facial nerve
+FMA:20635,Left femoral branch of genitofemoral nerve
+FMA:16500,Left femoral nerve
+None,Left femoral nerve posterior division
+FMA:6731,Left fifth intercostal nerve
+FMA:6072,Left first intercostal nerve
+FMA:6925,Left first lumbar splanchnic nerve
+FMA:6729,Left fourth intercostal nerve
+FMA:6931,Left fourth lumbar splanchnic nerve
+FMA:52640,Left frontal nerve
+FMA:20633,Left genital branch of genitofemoral nerve
+FMA:20631,Left genitofemoral nerve
+FMA:50894
+ILX:0789473,Left glossopharyngeal nerve
+FMA:55156
+ILX:0794584,Left great auricular nerve
+FMA:55158,Left great auricular nerve anterior branch
+FMA:55160,Left great auricular nerve posterior branch
+FMA:6835,Left greater occipital nerve
+FMA:52804,Left greater palatine nerve
+FMA:53424,Left greater petrosal nerve
+FMA:6955,Left greater splanchnic nerve
+FMA:20605,Left hypogastric nerve
+FMA:16492,Left iliohypogastric nerve
+FMA:16494,Left ilioinguinal nerve
+FMA:276381,Left incisive branch of inferior alveolar nerve
+FMA:53245,Left inferior alveolar nerve
+UBERON:0011766,Left inferior laryngeal nerve
+FMA:44953,Left inferior lateral cutaneous nerve of arm
+FMA:52988,Left inferior palpebral branch of infraorbital nerve
+FMA:21872,Left inferior rectal nerve
+FMA:52980,Left infraorbital nerve
+FMA:52699,Left infratrochlear nerve
+FMA:6121,Left intercostobrachial nerve
+FMA:45368,Left intermediate dorsal cutaneous nerve
+None,Left internal carotid nerve
+FMA:53540,Left internal laryngeal nerve
+FMA:52630,Left lacrimal nerve
+FMA:53548,Left laryngopharyngeal branch of superior cervical ganglion
+FMA:45429,Left lateral calcaneal branch A of left sural nerve
+FMA:39084,Left lateral cutaneous nerve of forearm
+None,Left lateral cutaneous nerve of forearm anterior branch
+None,Left lateral cutaneous nerve of forearm posterior branch
+FMA:45427,Left lateral dorsal cutaneous nerve
+FMA:45380,Left lateral dorsal digital nerve of the third toe
+FMA:16498,Left lateral femoral cutaneous nerve
+FMA:45451,Left lateral plantar nerve
+FMA:45362,Left lateral sural cutaneous nerve
+FMA:6960,Left least splanchnic nerve
+FMA:65389,Left lesser occipital nerve
+FMA:52807,Left lesser palatine nerve
+FMA:53503,Left lesser petrosal nerve
+FMA:6958,Left lesser splanchnic nerve
+FMA:53505,Left lingual branch of glossopharyngeal nerve
+FMA:53220,Left lingual nerve
+FMA:82735,Left long ciliary nerve A
+FMA:52701,Left long ciliary nerve B
+FMA:65282,Left long thoracic nerve
+FMA:65537,Left lumbosacral trunk
+FMA:52998,Left mandibular nerve
+FMA:52726,Left maxillary nerve
+FMA:65248,Left medial cutaneous nerve of arm
+FMA:39082,Left medial cutaneous nerve of forearm
+FMA:45366,Left medial dorsal cutaneous nerve
+FMA:45382,Left medial dorsal digital nerve of the fourth toe
+FMA:45435,Left medial plantar nerve
+FMA:52787,Left medial posterior superior nasal nerve
+FMA:45423,Left medial sural cutaneous nerve
+None,Left medial visceral branch of left T10 sympathetic ganglion
+None,Left medial visceral branch of left T11 sympathetic ganglion
+None,Left medial visceral branch of left T12 sympathetic ganglion
+None,Left medial visceral branch of left T5 sympathetic ganglion
+None,Left medial visceral branch of left T6 sympathetic ganglion
+None,Left medial visceral branch of left T7 sympathetic ganglion
+None,Left medial visceral branch of left T8 sympathetic ganglion
+None,Left medial visceral branch of left T9 sympathetic ganglion
+FMA:37068,Left median nerve
+None,Left meningeal branch of anterior ethmoidal nerve
+FMA:53049,Left meningeal branch of mandibular nerve
+FMA:53252,Left mental nerve
+FMA:52730,Left middle meningeal nerve
+FMA:52940,Left middle superior alveolar nerve
+FMA:78653,Left middle supraclavicular nerve
+FMA:37066,Left musculocutaneous nerve
+FMA:52670,Left nasociliary nerve
+FMA:52799,Left nasopalatine nerve
+None,Left nerve of the pterygoid canal
+None,Left nervus intermedius
+FMA:6741,Left ninth intercostal nerve
+FMA:16502,Left obturator nerve
+FMA:50880,Left oculomotor nerve
+FMA:52593,Left olfactory nerve
+FMA:52623,Left ophthalmic nerve
+FMA:50878,Left optic nerve
+None,Left orbital branch of maxillary nerve
+None,Left palpebral branch of infraorbital nerve
+None,Left palpebral branch of lacrimal nerve
+FMA:21874,Left perineal nerve
+None,Left pharyngeal nerve
+FMA:6193,Left phrenic nerve
+FMA:53280,Left posterior auricular nerve
+FMA:44951,Left posterior cutaneous nerve of arm
+FMA:39147,Left posterior cutaneous nerve of forearm
+FMA:53065,Left posterior division of mandibular nerve
+FMA:52716,Left posterior ethmoidal nerve
+FMA:45339,Left posterior femoral cutaneous nerve
+FMA:65336,Left posterior interosseous nerve
+FMA:21876,Left posterior scrotal nerve
+FMA:52937,Left posterior superior alveolar nerve
+FMA:52784,Left posterior superior lateral nasal branch of maxillary nerve
+FMA:78656,Left posterior supraclavicular nerve
+FMA:44899,Left proper palmar digital nerve A
+FMA:44905,Left proper palmar digital nerve B
+FMA:44902,Left proper palmar digital nerve C
+FMA:44871,Left proper palmar digital nerve D
+FMA:65348,Left proper palmar digital nerve E
+FMA:65346,Left proper palmar digital nerve F
+FMA:65344,Left proper palmar digital nerve G
+FMA:65342,Left proper palmar digital nerve H
+FMA:65340,Left proper palmar digital nerve I
+FMA:65338,Left proper palmar digital nerve J
+FMA:82953,Left proper plantar digital nerve A
+FMA:82955,Left proper plantar digital nerve B
+FMA:82957,Left proper plantar digital nerve C
+FMA:82959,Left proper plantar digital nerve D
+FMA:82961,Left proper plantar digital nerve E
+FMA:82963,Left proper plantar digital nerve F
+FMA:80026,Left proper plantar digital nerve G
+FMA:45453,Left proper plantar digital nerve H
+FMA:45455,Left proper plantar digital nerve I
+FMA:45457,Left proper plantar digital nerve J
+FMA:21864,Left pudendal nerve
+FMA:37071,Left radial nerve
+UBERON:0011766,Left recurrent laryngeal nerve
+FMA:45264,Left saphenous nerve
+FMA:22112,Left sciatic nerve
+FMA:6093,Left second intercostal nerve
+FMA:6927,Left second lumbar splanchnic nerve
+FMA:6737,Left seventh intercostal nerve
+FMA:6733,Left sixth intercostal nerve
+FMA:65286,Left subclavian nerve
+FMA:65569,Left subcostal nerve
+FMA:292889,Left superficial branch of radial nerve
+None,Left superficial branch of radial nerve lateral branch
+None,Left superficial branch of radial nerve medial branch
+FMA:45364,Left superficial fibular nerve
+FMA:53546,Left superior cervical cardiac nerve
+FMA:52995,Left superior labial branch of infraorbital nerve
+FMA:53536,Left superior laryngeal nerve
+FMA:81295,Left superior lateral cutaneous nerve of arm
+FMA:65416
+ILX:0794902,Left supraclavicular nerve
+FMA:52657,Left supraorbital nerve
+FMA:52644,Left supratrochlear nerve
+None,Left sural communicating branch
+FMA:45425,Left sural nerve
+FMA:6260
+ILX:0792282,Left sympathetic trunk
+None,Left sympathetic trunk branch to internal carotid nerve plexus
+FMA:6743,Left tenth intercostal nerve
+FMA:52627,Left tentorial nerve
+FMA:6119,Left third intercostal nerve
+FMA:6929,Left third lumbar splanchnic nerve
+FMA:6852,Left third occipital nerve
+FMA:22110,Left tibial nerve
+None,Left tibial part of sciatic nerve
+FMA:55173,Left transverse cervical nerve
+FMA:50885,Left trigeminal nerve
+FMA:53482,Left tympanic nerve
+FMA:37321,Left ulnar nerve
+UBERON:0035020,Left vagus nerve
+FMA:53409,Left vestibular nerve
+FMA:52969,Left zygomatic nerve
+FMA:52977,Left zygomaticofacial nerve
+FMA:52975,Left zygomaticotemporal nerve
+FMA:53634,Lingual branch of left vagus nerve
+FMA:53633,Lingual branch of right vagus nerve
+FMA:53367,Marginal mandibular branch of left facial nerve
+FMA:53366,Marginal mandibular branch of right facial nerve
+FMA:45433,Medial calcaneal branch A of left tibial nerve
+FMA:45432,Medial calcaneal branch A of right tibial nerve
+None,Medial crural cutaneous nerve A of left saphenous nerve
+None,Medial crural cutaneous nerve A of right saphenous nerve
+None,Medial portion of left median nerve
+None,Medial portion of right median nerve
+FMA:305339,Medial root of left median nerve
+FMA:305337,Medial root of right median nerve
+FMA:53542,Meningeal branch of left vagus nerve
+FMA:53541,Meningeal branch of right vagus nerve
+None,Middle ramus of left internal laryngeal nerve
+None,Middle ramus of right internal laryngeal nerve
+FMA:53609,Oesophageal branch of left recurrent laryngeal nerve
+FMA:53608,Oesophageal branch of right recurrent laryngeal nerve
+FMA:52777,Orbital branch of left maxillary nerve to left ethmoidal sinus
+FMA:52779,Orbital branch of left maxillary nerve to left sphenoidal sinus
+FMA:52776,Orbital branch of right maxillary nerve to right ethmoidal sinus
+FMA:52778,Orbital branch of right maxillary nerve to right sphenoidal sinus
+FMA:65328,Palmar branch of left median nerve
+FMA:65327,Palmar branch of right median nerve
+FMA:65350,Palmar cutaneous branch of left ulnar nerve
+FMA:65349,Palmar cutaneous branch of right ulnar nerve
+FMA:291238,Pericardial branch of left phrenic nerve
+FMA:291236,Pericardial branch of right phrenic nerve
+None,Perineal branch A of left posterior femoral cutaneous nerve
+None,Perineal branch A of right posterior femoral cutaneous nerve
+None,Perineal branch B of left posterior femoral cutaneous nerve
+None,Perineal branch B of right posterior femoral cutaneous nerve
+FMA:53495,Pharyngeal branch of left glossopharyngeal nerve
+FMA:53636,Pharyngeal branch of left vagus nerve to pharyngeal nerve plexus
+FMA:53494,Pharyngeal branch of right glossopharyngeal nerve
+FMA:53635,Pharyngeal branch of right vagus nerve to pharyngeal nerve plexus
+None,Phrenicoabdominal branch of left phrenic nerve
+None,Phrenicoabdominal branch of right phrenic nerve
+FMA:8890,Posterior branch of lateral cutaneous branch of left eighth intercostal nerve
+FMA:7308,Posterior branch of lateral cutaneous branch of left eleventh intercostal nerve
+FMA:7297,Posterior branch of lateral cutaneous branch of left fifth intercostal nerve
+FMA:7130,Posterior branch of lateral cutaneous branch of left fourth intercostal nerve
+FMA:8901,Posterior branch of lateral cutaneous branch of left ninth intercostal nerve
+FMA:8879,Posterior branch of lateral cutaneous branch of left seventh intercostal nerve
+FMA:8868,Posterior branch of lateral cutaneous branch of left sixth intercostal nerve
+FMA:11555,Posterior branch of lateral cutaneous branch of left subcostal nerve
+FMA:8912,Posterior branch of lateral cutaneous branch of left tenth intercostal nerve
+FMA:7119,Posterior branch of lateral cutaneous branch of left third intercostal nerve
+FMA:8889,Posterior branch of lateral cutaneous branch of right eighth intercostal nerve
+FMA:7307,Posterior branch of lateral cutaneous branch of right eleventh intercostal nerve
+FMA:7296,Posterior branch of lateral cutaneous branch of right fifth intercostal nerve
+FMA:7129,Posterior branch of lateral cutaneous branch of right fourth intercostal nerve
+FMA:8900,Posterior branch of lateral cutaneous branch of right ninth intercostal nerve
+FMA:8878,Posterior branch of lateral cutaneous branch of right seventh intercostal nerve
+FMA:8867,Posterior branch of lateral cutaneous branch of right sixth intercostal nerve
+FMA:11554,Posterior branch of lateral cutaneous branch of right subcostal nerve
+FMA:8911,Posterior branch of lateral cutaneous branch of right tenth intercostal nerve
+FMA:7118,Posterior branch of lateral cutaneous branch of right third intercostal nerve
+ILX:0795073,Posterior branch of left inferior laryngeal nerve
+FMA:65316,Posterior branch of left medial cutaneous nerve of forearm
+FMA:45311,Posterior branch of left obturator nerve
+ILX:0795072,Posterior branch of right inferior laryngeal nerve
+FMA:65315,Posterior branch of right medial cutaneous nerve of forearm
+FMA:45310,Posterior branch of right obturator nerve
+ILX:0794858,Posterior esophageal vagus trunk
+ILX:0795079,Pulmonary branch A of left vagus nerve
+ILX:0795074,Pulmonary branch A of right vagus nerve
+ILX:0795080,Pulmonary branch B of left vagus nerve
+ILX:0795075,Pulmonary branch B of right vagus nerve
+ILX:0795081,Pulmonary branch C of left vagus nerve
+ILX:0795076,Pulmonary branch C of right vagus nerve
+ILX:0795082,Pulmonary branch D of left vagus nerve
+ILX:0795077,Pulmonary branch D of right vagus nerve
+ILX:0795078,Pulmonary branch E of right vagus nerve
+FMA:6677,Pyloric branch of greater posterior gastric nerve
+None,Right C1 grey ramus communicans
+ILX:0794593,Right C1 spinal nerve
+FMA:55147,Right C1 spinal nerve branch to right ansa cervicalis
+None,Right C2 grey ramus communicans
+ILX:0794596,Right C2 spinal nerve
+FMA:55149,Right C2 spinal nerve branch to right ansa cervicalis
+FMA:65398,Right C2 spinal nerve branch to right great auricular nerve
+FMA:6821,Right C2 spinal nerve posterior ramus
+FMA:65444,Right C2 spinal nerve posterior ramus medial branch
+None,Right C3 grey ramus communicans
+ILX:0794599,Right C3 spinal nerve
+FMA:65401,Right C3 spinal nerve branch to right great auricular nerve
+FMA:65437,Right C3 spinal nerve branch to right supraclavicular nerve
+FMA:6842,Right C3 spinal nerve posterior ramus
+FMA:6844,Right C3 spinal nerve posterior ramus medial branch
+None,Right C4 grey ramus communicans
+ILX:0794602,Right C4 spinal nerve
+FMA:8790,Right C4 spinal nerve posterior ramus
+FMA:65739,Right C4 spinal nerve posterior ramus medial branch
+None,Right C5 grey ramus communicans
+ILX:0794605,Right C5 spinal nerve
+FMA:8794,Right C5 spinal nerve posterior ramus
+FMA:65743,Right C5 spinal nerve posterior ramus medial branch
+None,Right C6 grey ramus communicans
+ILX:0794608,Right C6 spinal nerve
+FMA:8797,Right C6 spinal nerve posterior ramus
+FMA:65747,Right C6 spinal nerve posterior ramus medial branch
+None,Right C7 grey ramus communicans
+ILX:0794611,Right C7 spinal nerve
+None,Right C8 grey ramus communicans
+ILX:0794614,Right C8 spinal nerve
+FMA:65923,Right L1 grey ramus communicans
+FMA:6410,Right L1 spinal nerve
+FMA:65937,Right L1 spinal nerve branch to right genitofemoral nerve
+FMA:7077,Right L1 spinal nerve posterior ramus
+FMA:16400,Right L1 spinal nerve posterior ramus lateral branch
+FMA:16884,Right L1 white ramus communicans
+FMA:65921,Right L2 grey ramus communicans
+FMA:6412,Right L2 spinal nerve
+None,Right L2 spinal nerve branch to right femoral nerve
+FMA:65941,Right L2 spinal nerve branch to right genitofemoral nerve
+None,Right L2 spinal nerve branch to right lateral femoral cutaneous nerve
+FMA:65948,Right L2 spinal nerve branch to right obturator nerve
+FMA:8832,Right L2 spinal nerve posterior ramus
+FMA:16402,Right L2 spinal nerve posterior ramus lateral branch
+FMA:16886,Right L2 white ramus communicans
+FMA:65919,Right L3 grey ramus communicans
+FMA:6417,Right L3 spinal nerve
+FMA:8835,Right L3 spinal nerve posterior ramus
+FMA:16404,Right L3 spinal nerve posterior ramus lateral branch
+None,Right L4 branch to right common fibular part of sciatic nerve
+None,Right L4 branch to right tibial part of sciatic nerve
+FMA:65917,Right L4 grey ramus communicans
+FMA:6419,Right L4 spinal nerve
+None,Right L5 branch to right common fibular part of sciatic nerve
+None,Right L5 branch to right tibial part of sciatic nerve
+FMA:65915,Right L5 grey ramus communicans
+FMA:6421,Right L5 spinal nerve
+None,Right S1 branch to right common fibular part of sciatic nerve
+None,Right S1 branch to right tibial part of sciatic nerve
+FMA:65991,Right S1 grey ramus communicans
+None,Right S1 sacral splanchnic nerve
+FMA:6428,Right S1 spinal nerve
+None,Right S2 branch to right common fibular part of sciatic nerve
+None,Right S2 branch to right tibial part of sciatic nerve
+FMA:65993,Right S2 grey ramus communicans
+None,Right S2 sacral splanchnic nerve
+FMA:6430,Right S2 spinal nerve
+FMA:66035,Right S2 spinal nerve branch to right pudendal nerve
+None,Right S3 branch to right tibial part of sciatic nerve
+FMA:65995,Right S3 grey ramus communicans
+FMA:6432,Right S3 spinal nerve
+FMA:66038,Right S3 spinal nerve branch to right pudendal nerve
+FMA:65997,Right S4 grey ramus communicans
+FMA:6434,Right S4 spinal nerve
+FMA:66045,Right S4 spinal nerve branch to right pudendal nerve
+FMA:65999,Right S5 grey ramus communicans
+FMA:6436,Right S5 spinal nerve
+FMA:6082,Right T1 grey ramus communicans
+FMA:6038,Right T1 spinal nerve
+FMA:6070,Right T1 spinal nerve posterior ramus
+FMA:11249,Right T1 spinal nerve posterior ramus medial branch
+FMA:6083,Right T1 white ramus communicans
+FMA:6894,Right T10 grey ramus communicans
+FMA:6310,Right T10 spinal nerve
+FMA:8823,Right T10 spinal nerve posterior ramus
+FMA:11755,Right T10 spinal nerve posterior ramus lateral branch
+FMA:6776,Right T10 white ramus communicans
+FMA:6896,Right T11 grey ramus communicans
+FMA:6313,Right T11 spinal nerve
+FMA:8826,Right T11 spinal nerve posterior ramus
+FMA:11757,Right T11 spinal nerve posterior ramus lateral branch
+FMA:6778,Right T11 white ramus communicans
+FMA:11780,Right T12 grey ramus communicans
+FMA:6182,Right T12 spinal nerve
+FMA:8829,Right T12 spinal nerve posterior ramus
+FMA:11759,Right T12 spinal nerve posterior ramus lateral branch
+FMA:11781,Right T12 white ramus communicans
+FMA:6122,Right T2 grey ramus communicans
+FMA:6088,Right T2 spinal nerve
+FMA:6091,Right T2 spinal nerve posterior ramus
+FMA:11252,Right T2 spinal nerve posterior ramus medial branch
+FMA:6781,Right T2 white ramus communicans
+FMA:6124,Right T3 grey ramus communicans
+FMA:6116,Right T3 spinal nerve
+FMA:8805,Right T3 spinal nerve posterior ramus
+FMA:11018,Right T3 spinal nerve posterior ramus medial branch
+FMA:6134,Right T3 white ramus communicans
+FMA:6759,Right T4 grey ramus communicans
+FMA:6291,Right T4 spinal nerve
+FMA:6784,Right T4 spinal nerve posterior ramus
+FMA:11063,Right T4 spinal nerve posterior ramus medial branch
+FMA:6764,Right T4 white ramus communicans
+FMA:6761,Right T5 grey ramus communicans
+FMA:6294,Right T5 spinal nerve
+FMA:8807,Right T5 spinal nerve posterior ramus
+FMA:11153,Right T5 spinal nerve posterior ramus medial branch
+FMA:6766,Right T5 white ramus communicans
+FMA:6762,Right T6 grey ramus communicans
+FMA:6297,Right T6 spinal nerve
+FMA:8811,Right T6 spinal nerve posterior ramus
+FMA:11261,Right T6 spinal nerve posterior ramus medial branch
+FMA:6768,Right T6 white ramus communicans
+FMA:6888,Right T7 grey ramus communicans
+FMA:6300,Right T7 spinal nerve
+FMA:8814,Right T7 spinal nerve posterior ramus
+FMA:11681,Right T7 spinal nerve posterior ramus lateral branch
+FMA:6770,Right T7 white ramus communicans
+FMA:6890,Right T8 grey ramus communicans
+FMA:6303,Right T8 spinal nerve
+FMA:8817,Right T8 spinal nerve posterior ramus
+FMA:11751,Right T8 spinal nerve posterior ramus lateral branch
+FMA:6772,Right T8 white ramus communicans
+FMA:6892,Right T9 grey ramus communicans
+FMA:6307,Right T9 spinal nerve
+FMA:8820,Right T9 spinal nerve posterior ramus
+FMA:11753,Right T9 spinal nerve posterior ramus lateral branch
+FMA:6774,Right T9 white ramus communicans
+FMA:50897,Right accessory nerve
+FMA:6217,Right accessory phrenic nerve
+FMA:55143
+ILX:0794577,Right ansa cervicalis
+FMA:53062,Right anterior division of mandibular nerve
+FMA:52676,Right anterior ethmoidal nerve
+FMA:45253,Right anterior femoral cutaneous branch A
+FMA:65325,Right anterior interosseous nerve
+None,Right anterior scrotal nerve
+FMA:52941,Right anterior superior alveolar nerve
+FMA:78649,Right anterior supraclavicular nerve
+FMA:53001,Right auriculotemporal nerve
+FMA:37073,Right axillary nerve
+FMA:81287,Right axillary nerve anterior branch
+FMA:81289,Right axillary nerve posterior branch
+FMA:53067,Right buccal nerve
+FMA:0328830,Right caroticotympanic nerve
+FMA:53508,Right carotid sinus nerve
+None,Right coccygeal grey ramus communicans
+FMA:6438,Right coccygeal spinal nerve
+FMA:53432,Right cochlear nerve
+FMA:45357,Right common fibular nerve
+None,Right common fibular part of sciatic nerve
+FMA:44892,Right common palmar digital nerve A
+None,Right common palmar digital nerve B
+None,Right common palmar digital nerve C
+None,Right common plantar digital nerve B
+None,Right common plantar digital nerve C
+None,Right common plantar digital nerve D
+FMA:44734,Right common plantar digital nerve E
+FMA:44769,Right common plantar digital nerve F
+FMA:52673,Right communicating branch of nasociliary nerve with ciliary ganglion
+FMA:45387,Right deep fibular nerve
+FMA:0328826,Right deep petrosal nerve
+FMA:21879,Right dorsal nerve of penis
+FMA:6738,Right eighth intercostal nerve
+FMA:6744,Right eleventh intercostal nerve
+FMA:53537,Right external laryngeal nerve
+FMA:53567,Right external laryngeal nerve branch to inferior pharyngeal constrictor
+FMA:53569,Right external laryngeal nerve branch to pharyngeal plexus
+FMA:50888,Right facial nerve
+FMA:20634,Right femoral branch of genitofemoral nerve
+FMA:16499,Right femoral nerve
+None,Right femoral nerve posterior division
+FMA:6730,Right fifth intercostal nerve
+FMA:6073,Right first intercostal nerve
+FMA:6924,Right first lumbar splanchnic nerve
+FMA:6728,Right fourth intercostal nerve
+FMA:6930,Right fourth lumbar splanchnic nerve
+FMA:52639,Right frontal nerve
+FMA:20632,Right genital branch of genitofemoral nerve
+FMA:20630,Right genitofemoral nerve
+FMA:50892
+ILX:0791729,Right glossopharyngeal nerve
+FMA:55155
+ILX:0794583,Right great auricular nerve
+FMA:55157,Right great auricular nerve anterior branch
+FMA:55159,Right great auricular nerve posterior branch
+FMA:65444,Right greater occipital nerve
+FMA:52803,Right greater palatine nerve
+FMA:53423,Right greater petrosal nerve
+FMA:6956,Right greater splanchnic nerve
+FMA:20604,Right hypogastric nerve
+FMA:16491,Right iliohypogastric nerve
+FMA:16493,Right ilioinguinal nerve
+FMA:276379,Right incisive branch of inferior alveolar nerve
+FMA:53244,Right inferior alveolar nerve
+UBERON:0011767,Right inferior laryngeal nerve
+FMA:44952,Right inferior lateral cutaneous nerve of arm
+FMA:52987,Right inferior palpebral branch of infraorbital nerve
+FMA:21871,Right inferior rectal nerve
+FMA:52979,Right infraorbital nerve
+FMA:52698,Right infratrochlear nerve
+FMA:11308,Right intercostobrachial nerve
+FMA:45367,Right intermediate dorsal cutaneous nerve
+None,Right internal carotid nerve
+FMA:53539,Right internal laryngeal nerve
+FMA:52629,Right lacrimal nerve
+FMA:53547,Right laryngopharyngeal branch of superior cervical ganglion
+FMA:45428,Right lateral calcaneal branch A of right sural nerve
+FMA:39083,Right lateral cutaneous nerve of forearm
+None,Right lateral cutaneous nerve of forearm anterior branch
+None,Right lateral cutaneous nerve of forearm posterior branch
+FMA:45426,Right lateral dorsal cutaneous nerve
+FMA:45379,Right lateral dorsal digital nerve of the third toe
+FMA:16497,Right lateral femoral cutaneous nerve
+FMA:45450,Right lateral plantar nerve
+FMA:45361,Right lateral sural cutaneous nerve
+FMA:6959,Right least splanchnic nerve
+FMA:65388,Right lesser occipital nerve
+FMA:52806,Right lesser palatine nerve
+FMA:53502,Right lesser petrosal nerve
+FMA:6957,Right lesser splanchnic nerve
+FMA:53504,Right lingual branch of glossopharyngeal nerve
+FMA:53219,Right lingual nerve
+FMA:82734,Right long ciliary nerve A
+FMA:52700,Right long ciliary nerve B
+FMA:65281,Right long thoracic nerve
+FMA:65536,Right lumbosacral trunk
+FMA:52997,Right mandibular nerve
+FMA:52725,Right maxillary nerve
+FMA:65247,Right medial cutaneous nerve of arm
+FMA:39081,Right medial cutaneous nerve of forearm
+FMA:45365,Right medial dorsal cutaneous nerve
+FMA:45381,Right medial dorsal digital nerve of the fourth toe
+FMA:45434,Right medial plantar nerve
+FMA:52786,Right medial posterior superior nasal nerve
+FMA:45422,Right medial sural cutaneous nerve
+None,Right medial visceral branch of right T10 sympathetic ganglion
+None,Right medial visceral branch of right T11 sympathetic ganglion
+None,Right medial visceral branch of right T12 sympathetic ganglion
+None,Right medial visceral branch of right T5 sympathetic ganglion
+None,Right medial visceral branch of right T6 sympathetic ganglion
+None,Right medial visceral branch of right T7 sympathetic ganglion
+None,Right medial visceral branch of right T8 sympathetic ganglion
+None,Right medial visceral branch of right T9 sympathetic ganglion
+FMA:37067,Right median nerve
+None,Right meningeal branch of anterior ethmoidal nerve
+FMA:53048,Right meningeal branch of mandibular nerve
+FMA:53251,Right mental nerve
+FMA:52729,Right middle meningeal nerve
+FMA:52939,Right middle superior alveolar nerve
+FMA:78652,Right middle supraclavicular nerve
+FMA:37065,Right musculocutaneous nerve
+FMA:52669,Right nasociliary nerve
+FMA:52798,Right nasopalatine nerve
+None,Right nerve of the pterygoid canal
+None,Right nervus intermedius
+FMA:6740,Right ninth intercostal nerve
+FMA:16501,Right obturator nerve
+FMA:50879,Right oculomotor nerve
+FMA:52592,Right olfactory nerve
+FMA:52622,Right ophthalmic nerve
+FMA:50875,Right optic nerve
+None,Right orbital branch of maxillary nerve
+None,Right palpebral branch of infraorbital nerve
+None,Right palpebral branch of lacrimal nerve
+FMA:21873,Right perineal nerve
+None,Right pharyngeal nerve
+FMA:6192,Right phrenic nerve
+FMA:53279,Right posterior auricular nerve
+FMA:44950,Right posterior cutaneous nerve of arm
+FMA:39146,Right posterior cutaneous nerve of forearm
+FMA:53064,Right posterior division of mandibular nerve
+FMA:52715,Right posterior ethmoidal nerve
+FMA:45338,Right posterior femoral cutaneous nerve
+FMA:65335,Right posterior interosseous nerve
+FMA:21875,Right posterior scrotal nerve
+FMA:52936,Right posterior superior alveolar nerve
+FMA:52785,Right posterior superior lateral nasal branch of maxillary nerve
+FMA:78655,Right posterior supraclavicular nerve
+FMA:44898,Right proper palmar digital nerve A
+FMA:44904,Right proper palmar digital nerve B
+FMA:44901,Right proper palmar digital nerve C
+FMA:44870,Right proper palmar digital nerve D
+FMA:65347,Right proper palmar digital nerve E
+FMA:65345,Right proper palmar digital nerve F
+FMA:65343,Right proper palmar digital nerve G
+FMA:65341,Right proper palmar digital nerve H
+FMA:65339,Right proper palmar digital nerve I
+FMA:65337,Right proper palmar digital nerve J
+FMA:82952,Right proper plantar digital nerve A
+FMA:82954,Right proper plantar digital nerve B
+FMA:82956,Right proper plantar digital nerve C
+FMA:82958,Right proper plantar digital nerve D
+FMA:82960,Right proper plantar digital nerve E
+FMA:82962,Right proper plantar digital nerve F
+FMA:80025,Right proper plantar digital nerve G
+FMA:45452,Right proper plantar digital nerve H
+FMA:45454,Right proper plantar digital nerve I
+FMA:45456,Right proper plantar digital nerve J
+FMA:21863,Right pudendal nerve
+FMA:37070,Right radial nerve
+UBERON:0011767,Right recurrent laryngeal nerve
+FMA:45263,Right saphenous nerve
+FMA:22111,Right sciatic nerve
+FMA:6092,Right second intercostal nerve
+FMA:6926,Right second lumbar splanchnic nerve
+FMA:6736,Right seventh intercostal nerve
+FMA:6732,Right sixth intercostal nerve
+FMA:65285,Right subclavian nerve
+FMA:65568,Right subcostal nerve
+FMA:292887,Right superficial branch of radial nerve
+None,Right superficial branch of radial nerve lateral branch
+None,Right superficial branch of radial nerve medial branch
+FMA:45363,Right superficial fibular nerve
+FMA:53545,Right superior cervical cardiac nerve
+FMA:52994,Right superior labial branch of infraorbital nerve
+FMA:53530,Right superior laryngeal nerve
+FMA:81294,Right superior lateral cutaneous nerve of arm
+FMA:65415
+ILX:0794901,Right supraclavicular nerve
+FMA:52656,Right supraorbital nerve
+FMA:52643,Right supratrochlear nerve
+None,Right sural communicating branch
+FMA:45424,Right sural nerve
+FMA:6259
+ILX:0786761,Right sympathetic trunk
+None,Right sympathetic trunk branch to internal carotid nerve plexus
+FMA:6742,Right tenth intercostal nerve
+FMA:52626,Right tentorial nerve
+FMA:6118,Right third intercostal nerve
+FMA:6928,Right third lumbar splanchnic nerve
+FMA:6845,Right third occipital nerve
+FMA:22109,Right tibial nerve
+None,Right tibial part of sciatic nerve
+FMA:55172,Right transverse cervical nerve
+FMA:50884,Right trigeminal nerve
+FMA:53481,Right tympanic nerve
+FMA:37320,Right ulnar nerve
+UBERON:0035021,Right vagus nerve
+FMA:53402,Right vestibular nerve
+FMA:52968,Right zygomatic nerve
+FMA:52976,Right zygomaticofacial nerve
+FMA:52974,Right zygomaticotemporal nerve
+FMA:44932,Superficial branch of left ulnar nerve
+FMA:44894,Superficial branch of right ulnar nerve
+FMA:53599,Superior cervical cardiac branch of left vagus nerve
+FMA:53598,Superior cervical cardiac branch of right vagus nerve
+FMA:53576
+ILX:0785786,Superior ramus of left internal laryngeal nerve
+FMA:53575
+ILX:0784524,Superior ramus of right internal laryngeal nerve
+FMA:53302,Temporal branch of left facial nerve
+FMA:53301,Temporal branch of right facial nerve
+FMA:53605,Thoracic cardiac branch of left vagus nerve
+FMA:53604,Thoracic cardiac branch of right vagus nerve
+FMA:53507,Tonsillar branch of left glossopharyngeal nerve
+FMA:53506,Tonsillar branch of right glossopharyngeal nerve
+FMA:53611,Tracheal branch of left recurrent laryngeal nerve
+FMA:53610,Tracheal branch of right recurrent laryngeal nerve
+FMA:53607,Vagal branch to left carotid body
+FMA:53606,Vagal branch to right carotid body
+FMA:53309,Zygomatic branch of left facial nerve
+FMA:53308,Zygomatic branch of right facial nerve
