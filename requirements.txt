@@ -1,5 +1,6 @@
-https://github.com/AnatomicMaps/map-knowledge/releases/download/v1.1.0/mapknowledge-1.1.0-py3-none-any.whl
+https://github.com/AnatomicMaps/map-knowledge/releases/download/v1.2.2/mapknowledge-1.2.2-py3-none-any.whl
 jupyter
 ipykernel
 tqdm
 pandas
+python-dotenv
