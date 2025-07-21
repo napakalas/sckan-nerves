@@ -1,131 +1,135 @@
-Term ID,Group name,available
-,Brachial plexus left T1 root,
-,Brachial plexus right T1 root,
-,Chorda tympani branch of left facial nerve,['ILX:0795106']
-,Chorda tympani branch of right facial nerve,['ILX:0795105']
-,Communicating branch of left common palmar digital branch of ulnar nerve with left median nerve,
-,Communicating branch of right common palmar digital branch of ulnar nerve with right median nerve,
-,Communicating branch of superior cervical ganglion with left vagus nerve,
-,Communicating branch of superior cervical ganglion with right vagus nerve,
-,Cranial roots of left accessory nerve,
-,Cranial roots of right accessory nerve,
-,Lateral portion of left median nerve,['ILX:0795133']
-,Lateral portion of right median nerve,['ILX:0795132']
-,Left C1 grey ramus communicans,
-,Left C2 grey ramus communicans,
-,Left C3 grey ramus communicans,
-,Left C4 grey ramus communicans,
-,Left C5 grey ramus communicans,
-,Left C6 grey ramus communicans,
-,Left C7 grey ramus communicans,
-,Left C8 grey ramus communicans,
-,Left L2 spinal nerve branch to left femoral nerve,['ILX:0795373']
-,Left L2 spinal nerve branch to left lateral femoral cutaneous nerve,['ILX:0795375']
-,Left L4 branch to left common fibular part of sciatic nerve,['ILX:0795365']
-,Left L4 branch to left tibial part of sciatic nerve,['ILX:0795355']
-,Left L5 branch to left common fibular part of sciatic nerve,['ILX:0795367']
-,Left L5 branch to left tibial part of sciatic nerve,['ILX:0795357']
-,Left S1 branch to left common fibular part of sciatic nerve,['ILX:0795369']
-,Left S1 branch to left tibial part of sciatic nerve,['ILX:0795359']
-,Left S1 sacral splanchnic nerve,['ILX:0795177']
-,Left S2 branch to left common fibular part of sciatic nerve,['ILX:0795371']
-,Left S2 branch to left tibial part of sciatic nerve,['ILX:0795361']
-,Left S2 sacral splanchnic nerve,['ILX:0795180']
-,Left S3 branch to left tibial part of sciatic nerve,['ILX:0795363']
-,Left anterior scrotal nerve,['ILX:0795160']
-,Left coccygeal grey ramus communicans,['ILX:0795352']
-,Left common fibular part of sciatic nerve,
-,Left common palmar digital nerve B,['ILX:0795139']
-,Left common palmar digital nerve C,['ILX:0795142']
-,Left common plantar digital nerve B,
-,Left common plantar digital nerve C,
-,Left common plantar digital nerve D,
-,Left femoral nerve posterior division,['ILX:0795163']
-,Left internal carotid nerve,
-,Left lateral cutaneous nerve of forearm anterior branch,['ILX:0795118']
-,Left lateral cutaneous nerve of forearm posterior branch,['ILX:0795121']
-,Left medial visceral branch of left T10 sympathetic ganglion,
-,Left medial visceral branch of left T11 sympathetic ganglion,
-,Left medial visceral branch of left T12 sympathetic ganglion,
-,Left medial visceral branch of left T5 sympathetic ganglion,
-,Left medial visceral branch of left T6 sympathetic ganglion,
-,Left medial visceral branch of left T7 sympathetic ganglion,
-,Left medial visceral branch of left T8 sympathetic ganglion,
-,Left medial visceral branch of left T9 sympathetic ganglion,
-,Left meningeal branch of anterior ethmoidal nerve,
-,Left nerve of the pterygoid canal,['ILX:0795102']
-,Left nervus intermedius,['ILX:0795104']
-,Left orbital branch of maxillary nerve,
-,Left palpebral branch of infraorbital nerve,
-,Left palpebral branch of lacrimal nerve,
-,Left pharyngeal nerve,['ILX:0795098']
-,Left superficial branch of radial nerve lateral branch,
-,Left superficial branch of radial nerve medial branch,
-,Left sural communicating branch,
-,Left sympathetic trunk branch to internal carotid nerve plexus,
-,Left tibial part of sciatic nerve,
-,Medial crural cutaneous nerve A of left saphenous nerve,['ILX:0795168']
-,Medial crural cutaneous nerve A of right saphenous nerve,['ILX:0795167']
-,Medial portion of left median nerve,['ILX:0795136']
-,Medial portion of right median nerve,['ILX:0795135']
-,Middle ramus of left internal laryngeal nerve,
-,Middle ramus of right internal laryngeal nerve,
-,Perineal branch A of left posterior femoral cutaneous nerve,['ILX:0795171']
-,Perineal branch A of right posterior femoral cutaneous nerve,['ILX:0795170']
-,Perineal branch B of left posterior femoral cutaneous nerve,['ILX:0795174']
-,Perineal branch B of right posterior femoral cutaneous nerve,['ILX:0795173']
-,Phrenicoabdominal branch of left phrenic nerve,['ILX:0795113']
-,Phrenicoabdominal branch of right phrenic nerve,['ILX:0795112']
-,Right C1 grey ramus communicans,
-,Right C2 grey ramus communicans,
-,Right C3 grey ramus communicans,
-,Right C4 grey ramus communicans,
-,Right C5 grey ramus communicans,
-,Right C6 grey ramus communicans,
-,Right C7 grey ramus communicans,
-,Right C8 grey ramus communicans,
-,Right L2 spinal nerve branch to right femoral nerve,['ILX:0795372']
-,Right L2 spinal nerve branch to right lateral femoral cutaneous nerve,['ILX:0795374']
-,Right L4 branch to right common fibular part of sciatic nerve,['ILX:0795364']
-,Right L4 branch to right tibial part of sciatic nerve,['ILX:0795354']
-,Right L5 branch to right common fibular part of sciatic nerve,['ILX:0795366']
-,Right L5 branch to right tibial part of sciatic nerve,['ILX:0795356']
-,Right S1 branch to right common fibular part of sciatic nerve,['ILX:0795368']
-,Right S1 branch to right tibial part of sciatic nerve,['ILX:0795358']
-,Right S1 sacral splanchnic nerve,['ILX:0795176']
-,Right S2 branch to right common fibular part of sciatic nerve,['ILX:0795370']
-,Right S2 branch to right tibial part of sciatic nerve,['ILX:0795360']
-,Right S2 sacral splanchnic nerve,['ILX:0795179']
-,Right S3 branch to right tibial part of sciatic nerve,['ILX:0795362']
-,Right anterior scrotal nerve,['ILX:0795159']
-,Right coccygeal grey ramus communicans,['ILX:0795353']
-,Right common fibular part of sciatic nerve,
-,Right common palmar digital nerve B,['ILX:0795138']
-,Right common palmar digital nerve C,['ILX:0795141']
-,Right common plantar digital nerve B,
-,Right common plantar digital nerve C,
-,Right common plantar digital nerve D,
-,Right femoral nerve posterior division,['ILX:0795162']
-,Right internal carotid nerve,
-,Right lateral cutaneous nerve of forearm anterior branch,['ILX:0795117']
-,Right lateral cutaneous nerve of forearm posterior branch,['ILX:0795120']
-,Right medial visceral branch of right T10 sympathetic ganglion,
-,Right medial visceral branch of right T11 sympathetic ganglion,
-,Right medial visceral branch of right T12 sympathetic ganglion,
-,Right medial visceral branch of right T5 sympathetic ganglion,
-,Right medial visceral branch of right T6 sympathetic ganglion,
-,Right medial visceral branch of right T7 sympathetic ganglion,
-,Right medial visceral branch of right T8 sympathetic ganglion,
-,Right medial visceral branch of right T9 sympathetic ganglion,
-,Right meningeal branch of anterior ethmoidal nerve,
-,Right nerve of the pterygoid canal,['ILX:0795101']
-,Right nervus intermedius,['ILX:0795103']
-,Right orbital branch of maxillary nerve,
-,Right palpebral branch of infraorbital nerve,
-,Right palpebral branch of lacrimal nerve,
-,Right pharyngeal nerve,['ILX:0795097']
-,Right superficial branch of radial nerve lateral branch,
-,Right superficial branch of radial nerve medial branch,
-,Right sural communicating branch,
-,Right sympathetic trunk branch to internal carotid nerve plexus,
-,Right tibial part of sciatic nerve,
+Term ID,Group name,Unnamed: 2,available
+,Brachial plexus left T1 root,,
+,Brachial plexus right T1 root,,
+,Branch of right vagus nerve to oesophageal nerve plexus,previously annotated to FMA:53675 (Branch of greater anterior gastric nerve to coeliac plexus),
+,Chorda tympani branch of left facial nerve,,['ILX:0795106']
+,Chorda tympani branch of right facial nerve,,['ILX:0795105']
+,Communicating branch of left common palmar digital branch of ulnar nerve with left median nerve,,
+,Communicating branch of right common palmar digital branch of ulnar nerve with right median nerve,,
+,Communicating branch of superior cervical ganglion with left vagus nerve,,
+,Communicating branch of superior cervical ganglion with right vagus nerve,,
+,Cranial roots of left accessory nerve,,
+,Cranial roots of right accessory nerve,,
+,Lateral portion of left median nerve,,['ILX:0795133']
+,Lateral portion of right median nerve,,['ILX:0795132']
+,Left C1 grey ramus communicans,,
+,Left C2 grey ramus communicans,,
+,Left C3 grey ramus communicans,,
+,Left C4 grey ramus communicans,,
+,Left C5 grey ramus communicans,,
+,Left C6 grey ramus communicans,,
+,Left C6 spinal nerve posterior ramus medial branch,previously annotated to FMA:11262 (Medial branch of posterior ramus of left sixth thoracic nerve),
+,Left C7 grey ramus communicans,,
+,Left C8 grey ramus communicans,,
+,Left L2 spinal nerve branch to left femoral nerve,,['ILX:0795373']
+,Left L2 spinal nerve branch to left lateral femoral cutaneous nerve,,['ILX:0795375']
+,Left L4 branch to left common fibular part of sciatic nerve,,['ILX:0795365']
+,Left L4 branch to left tibial part of sciatic nerve,,['ILX:0795355']
+,Left L5 branch to left common fibular part of sciatic nerve,,['ILX:0795367']
+,Left L5 branch to left tibial part of sciatic nerve,,['ILX:0795357']
+,Left S1 branch to left common fibular part of sciatic nerve,,['ILX:0795369']
+,Left S1 branch to left tibial part of sciatic nerve,,['ILX:0795359']
+,Left S1 sacral splanchnic nerve,,['ILX:0795177']
+,Left S2 branch to left common fibular part of sciatic nerve,,['ILX:0795371']
+,Left S2 branch to left tibial part of sciatic nerve,,['ILX:0795361']
+,Left S2 sacral splanchnic nerve,,['ILX:0795180']
+,Left S3 branch to left tibial part of sciatic nerve,,['ILX:0795363']
+,Left anterior scrotal nerve,,['ILX:0795160']
+,Left coccygeal grey ramus communicans,,['ILX:0795352']
+,Left common fibular part of sciatic nerve,,
+,Left common palmar digital nerve B,,['ILX:0795139']
+,Left common palmar digital nerve C,,['ILX:0795142']
+,Left common plantar digital nerve B,,
+,Left common plantar digital nerve C,,
+,Left common plantar digital nerve D,,
+,Left femoral nerve posterior division,,['ILX:0795163']
+,Left hypogastric nerve,previously annotated to FMA:20605 (Anterior cutaneous branch of left iliohypogastric nerve),
+,Left internal carotid nerve,,
+,Left lateral cutaneous nerve of forearm anterior branch,,['ILX:0795118']
+,Left lateral cutaneous nerve of forearm posterior branch,,['ILX:0795121']
+,Left medial visceral branch of left T10 sympathetic ganglion,,
+,Left medial visceral branch of left T11 sympathetic ganglion,,
+,Left medial visceral branch of left T12 sympathetic ganglion,,
+,Left medial visceral branch of left T5 sympathetic ganglion,,
+,Left medial visceral branch of left T6 sympathetic ganglion,,
+,Left medial visceral branch of left T7 sympathetic ganglion,,
+,Left medial visceral branch of left T8 sympathetic ganglion,,
+,Left medial visceral branch of left T9 sympathetic ganglion,,
+,Left meningeal branch of anterior ethmoidal nerve,,
+,Left nerve of the pterygoid canal,,['ILX:0795102']
+,Left nervus intermedius,,['ILX:0795104']
+,Left orbital branch of maxillary nerve,,
+,Left palpebral branch of infraorbital nerve,,
+,Left palpebral branch of lacrimal nerve,,
+,Left pharyngeal nerve,,['ILX:0795098']
+,Left superficial branch of radial nerve lateral branch,,
+,Left superficial branch of radial nerve medial branch,,
+,Left sural communicating branch,,
+,Left sympathetic trunk branch to internal carotid nerve plexus,,
+,Left tibial part of sciatic nerve,,
+,Medial crural cutaneous nerve A of left saphenous nerve,,['ILX:0795168']
+,Medial crural cutaneous nerve A of right saphenous nerve,,['ILX:0795167']
+,Medial portion of left median nerve,,['ILX:0795136']
+,Medial portion of right median nerve,,['ILX:0795135']
+,Middle ramus of left internal laryngeal nerve,,
+,Middle ramus of right internal laryngeal nerve,,
+,Perineal branch A of left posterior femoral cutaneous nerve,,['ILX:0795171']
+,Perineal branch A of right posterior femoral cutaneous nerve,,['ILX:0795170']
+,Perineal branch B of left posterior femoral cutaneous nerve,,['ILX:0795174']
+,Perineal branch B of right posterior femoral cutaneous nerve,,['ILX:0795173']
+,Phrenicoabdominal branch of left phrenic nerve,,['ILX:0795113']
+,Phrenicoabdominal branch of right phrenic nerve,,['ILX:0795112']
+,Right C1 grey ramus communicans,,
+,Right C2 grey ramus communicans,,
+,Right C3 grey ramus communicans,,
+,Right C4 grey ramus communicans,,
+,Right C5 grey ramus communicans,,
+,Right C6 grey ramus communicans,,
+,Right C7 grey ramus communicans,,
+,Right C8 grey ramus communicans,,
+,Right L2 spinal nerve branch to right femoral nerve,,['ILX:0795372']
+,Right L2 spinal nerve branch to right lateral femoral cutaneous nerve,,['ILX:0795374']
+,Right L4 branch to right common fibular part of sciatic nerve,,['ILX:0795364']
+,Right L4 branch to right tibial part of sciatic nerve,,['ILX:0795354']
+,Right L5 branch to right common fibular part of sciatic nerve,,['ILX:0795366']
+,Right L5 branch to right tibial part of sciatic nerve,,['ILX:0795356']
+,Right S1 branch to right common fibular part of sciatic nerve,,['ILX:0795368']
+,Right S1 branch to right tibial part of sciatic nerve,,['ILX:0795358']
+,Right S1 sacral splanchnic nerve,,['ILX:0795176']
+,Right S2 branch to right common fibular part of sciatic nerve,,['ILX:0795370']
+,Right S2 branch to right tibial part of sciatic nerve,,['ILX:0795360']
+,Right S2 sacral splanchnic nerve,,['ILX:0795179']
+,Right S3 branch to right tibial part of sciatic nerve,,['ILX:0795362']
+,Right anterior scrotal nerve,,['ILX:0795159']
+,Right coccygeal grey ramus communicans,,['ILX:0795353']
+,Right common fibular part of sciatic nerve,,
+,Right common palmar digital nerve B,,['ILX:0795138']
+,Right common palmar digital nerve C,,['ILX:0795141']
+,Right common plantar digital nerve B,,
+,Right common plantar digital nerve C,,
+,Right common plantar digital nerve D,,
+,Right femoral nerve posterior division,,['ILX:0795162']
+,Right hypogastric nerve,previously annotated to FMA:20604 (Anterior cutaneous branch of right iliohypogastric nerve),
+,Right internal carotid nerve,,
+,Right lateral cutaneous nerve of forearm anterior branch,,['ILX:0795117']
+,Right lateral cutaneous nerve of forearm posterior branch,,['ILX:0795120']
+,Right medial visceral branch of right T10 sympathetic ganglion,,
+,Right medial visceral branch of right T11 sympathetic ganglion,,
+,Right medial visceral branch of right T12 sympathetic ganglion,,
+,Right medial visceral branch of right T5 sympathetic ganglion,,
+,Right medial visceral branch of right T6 sympathetic ganglion,,
+,Right medial visceral branch of right T7 sympathetic ganglion,,
+,Right medial visceral branch of right T8 sympathetic ganglion,,
+,Right medial visceral branch of right T9 sympathetic ganglion,,
+,Right meningeal branch of anterior ethmoidal nerve,,
+,Right nerve of the pterygoid canal,,['ILX:0795101']
+,Right nervus intermedius,,['ILX:0795103']
+,Right orbital branch of maxillary nerve,,
+,Right palpebral branch of infraorbital nerve,,
+,Right palpebral branch of lacrimal nerve,,
+,Right pharyngeal nerve,,['ILX:0795097']
+,Right superficial branch of radial nerve lateral branch,,
+,Right superficial branch of radial nerve medial branch,,
+,Right sural communicating branch,,
+,Right sympathetic trunk branch to internal carotid nerve plexus,,
+,Right tibial part of sciatic nerve,,
